@@ -1,0 +1,17 @@
+{
+  "en": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "ru": {
+    "home": "Главная",
+    "about": "О нас",
+    "contact": "Контакты"
+  },
+  "de": {
+    "home": "Startseite",
+    "about": "Über",
+    "contact": "Kontakt"
+  }
+}
